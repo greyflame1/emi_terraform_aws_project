@@ -1,13 +1,5 @@
-provider "aws" {
-  region = "eu-central-1"
-}
-
-resource "random_id" "rand" {
-  byte_length = 4
-}
-
 resource "aws_s3_bucket" "website" {
-  bucket = "emi-terraform-website-${random_id.rand.hex}"
+  bucket = "emi-terraform-website-242003819"
 
   tags = {
     Name = "emi-terraform-website"
