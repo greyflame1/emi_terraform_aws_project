@@ -20,7 +20,7 @@ It demonstrates how to use **Infrastructure as Code (IaC)** to manage AWS resour
    git clone https://github.com/greyflame1/emi_terraform_aws_project.git
    cd emi_terraform_aws_project
 
-2. **Initialize , preview and apply
+2. **Initialize , preview and apply**
   ```bash
    terraform init
    terraform plan
