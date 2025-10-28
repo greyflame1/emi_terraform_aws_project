@@ -5,7 +5,7 @@ It demonstrates how to use **Infrastructure as Code (IaC)** to manage AWS resour
 
 ---
 
-## 🚀 Purpose
+##  Purpose
 
 - Automate the creation of an S3 bucket on AWS  
 - Learn and practice basic Terraform commands  
@@ -13,7 +13,7 @@ It demonstrates how to use **Infrastructure as Code (IaC)** to manage AWS resour
 
 ---
 
-## ⚙️ Usage
+##  Usage
 
 1. **Clone the repository and deploy the infrastructure:**
    ```bash
